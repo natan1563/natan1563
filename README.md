@@ -1,16 +1,36 @@
-### Hi there 👋
+### Olá! Eu sou o Natã Romão, seja bem vindo ao meu perfil!
 
-<!--
-**natan1563/natan1563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como programador back-end junior.
+- 🌱 Estudando e amando Vue.js
+- 📫 Contate-me no e-mail: natromafe@gmail.com
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/natan1563">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natan1563&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan1563&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+   <img align="center" title="HTML" alt="Nata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" title="CSS" alt="Nata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" title="BOOTSTRAP" alt="Nata-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+   <img align="center" title="JavaScript" alt="Nata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" title="Vue.js" alt="Nata-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   <img align="center" title="Jquery" alt="Nata-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+   <img align="center" title="PHP"  alt="Nata-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+   <img align="center" title="Laravel" alt="Nata-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+   <img align="center" title="MySql" alt="Nata-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+   <img align="center" title="Docker" alt="Nata-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+   <img align="center" title="Linux" alt="Nata-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img height="128px" width="148px" align="right" alt="Nata-gif" src="https://i.imgur.com/Padmw7J.gif">
+ </div>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 
+  
+  <div>
+      <a href = "mailto:natromafe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/natã-romão-28a064186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
+  
