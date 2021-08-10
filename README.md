@@ -1,8 +1,9 @@
-### Olá! Eu sou o Natã Romão, seja bem vindo ao meu perfil!
+### Olá! Eu sou o Natã Romão. Seja bem vindo ao meu perfil!
 
 - 🔭 Atualmente trabalho como programador back-end junior.
 - 🌱 Estudando e amando Vue.js
 - 📫 Contate-me no e-mail: natromafe@gmail.com
+- 🪧 Cursando Sistemas de Informação 4/8 ✅
 
  <div>
   <a href="https://github.com/natan1563">
