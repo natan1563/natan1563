@@ -5,12 +5,6 @@
 - 📫 Contate-me no e-mail: natromafe@gmail.com
 - 📚 Cursando Sistemas de Informação 5/8 ✅
 
- <div>
-  <a href="https://github.com/natan1563">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natan1563&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan1563&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
   <div style="display: inline_block"><br>
    <img align="center" title="HTML" alt="Nata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" title="CSS" alt="Nata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
