@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho como FullStack Web Developer.
 - 🌱 Estudando desenvolvimento Mobile
 - 📫 Contate-me no e-mail: natromafe@gmail.com
-- 📚 Cursando Sistemas de Informação 5/8 ✅
+- 📚 Cursando Sistemas de Informação 6/8 ✅
 
   <div style="display: inline_block"><br>
    <img align="center" title="HTML" alt="Nata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
