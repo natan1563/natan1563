@@ -13,8 +13,6 @@
    <img align="center" title="Vue.js" alt="Nata-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
    <img align="center" title="Jquery" alt="Nata-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
    <img align="center" title="PHP"  alt="Nata-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-   <img align="center" title="Laravel" alt="Nata-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-   <img align="center" title="MySql" alt="Nata-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
    <img align="center" title="Docker" alt="Nata-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
    <img align="center" title="Linux" alt="Nata-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img height="128px" width="148px" align="right" alt="Nata-gif" src="https://i.imgur.com/Padmw7J.gif">
