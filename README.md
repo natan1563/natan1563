@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Natã Romão. Seja bem vindo ao meu perfil!
 
-- 🔭 FullStack Web Developer.
+- 🔭 FullStack Developer.
 - 🌱 Estudando iOS Nativo com Swift
 - 📫 Contate-me no e-mail: natromafe@gmail.com
 - 📚 Bacharel em Sistemas de Informação
